@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "74565887128",
+    "firebase_url": "https://loja-virtual-4da2f.firebaseio.com",
+    "project_id": "loja-virtual-4da2f",
+    "storage_bucket": "loja-virtual-4da2f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:74565887128:android:f408bdea6aa263ffe95ced",
+        "android_client_info": {
+          "package_name": "br.com.utopica.loja_virtual"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "74565887128-6o4ufn0q1kcfnlm86nf51fhv0nq22esq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCYGEfln7IEmX6eSs-GGbbL0fMY25Nmehw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "74565887128-6o4ufn0q1kcfnlm86nf51fhv0nq22esq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
